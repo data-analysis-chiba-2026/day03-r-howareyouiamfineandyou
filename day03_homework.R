@@ -61,6 +61,7 @@ answer_4<-sqrt(200)
 # Use seq() make a sequence of even numbers starting at 2 and ending at 100, and
 # save your answer in an object called answer_5
 answer_5<-seq(2,100,2)
+
 # 6. Make a vector of logical values (TRUE and FALSE), and save it to an
 #  object called lgl_vec
 #  Next, make vector of character values, and save it to an object
@@ -73,7 +74,11 @@ answer_5<-seq(2,100,2)
 #
 # HINT: use c() to make vectors
 # HINT: characters are always written with quotation marks
-
+lgl_vec<-c(TRUE, FALSE, TRUE)
+chr_vec <- c("apple", "banana", "orange")
+combined_vec <- c(lgl_vec, chr_vec)
+typeof(combined_vec)
+answer_6 <- typeof(combined_vec)
 # 7. R includes some pre-defined vectors, like `letters`:
 letters
 

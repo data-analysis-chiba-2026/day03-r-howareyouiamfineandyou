@@ -51,6 +51,7 @@ answer_3<-z
 # Use the sqrt() function to calculate the square root of 200, and
 # save your answer in an object called answer_4.
 
+answer_4<-sqrt(200)
 # 5. The seq() function generates sequences of numbers.
 # Its arguments include "from" (the starting number), "to"
 # (the ending number), and "by" (how much to add

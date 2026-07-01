@@ -34,7 +34,7 @@ answer_1<-weight_lb*0.4536/(height_ft*0.3048)^2
 # (You don't need to save a separate answer for this one, just fix the code.)
 
 volume_oz <- 130
-volume_ml <- Volume_oz * 29.574
+volume_ml <- volume_oz * 29.574
 
 # 3. What is the value of z after running the following code?
 #

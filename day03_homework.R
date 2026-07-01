@@ -88,3 +88,4 @@ letters
 # Save your answer in an object called answer_7
 #
 # HINT: Use `seq()` inside the square brackets
+answer_7 <- letters[seq(1, 26, 2)]

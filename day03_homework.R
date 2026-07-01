@@ -44,6 +44,7 @@ x <- 2
 y <- 3
 z <- x + y
 x <- 5
+answer_3<-z
 
 # 4. The sqrt() function calculates the square root of a number.
 #

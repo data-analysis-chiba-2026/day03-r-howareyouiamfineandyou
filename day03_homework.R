@@ -27,6 +27,8 @@ answer_0 <- 365 * 5
 
 weight_lb <- 160
 height_ft <- 6
+answer_1<-weight_lb*0.4536/(height_ft*0.3048)^2
+
 
 # 2. The following code has an error. Fix it by editing the code.
 # (You don't need to save a separate answer for this one, just fix the code.)
